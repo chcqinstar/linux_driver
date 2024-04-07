@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/book/100ask_imx6ull_mini-sdk/Linux-4.9.88/DRIVER/practice/led_drv_simple/ledtest/build",
+  "command": "/home/book/100ask_imx6ull_mini-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc  -I/home/book/100ask_imx6ull_mini-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/7.5.0/include   -Wall   -std=gnu99 -o CMakeFiles/ledtest.dir/ledtest.c.o   -c /home/book/100ask_imx6ull_mini-sdk/Linux-4.9.88/DRIVER/practice/led_drv_simple/ledtest/ledtest.c",
+  "file": "/home/book/100ask_imx6ull_mini-sdk/Linux-4.9.88/DRIVER/practice/led_drv_simple/ledtest/ledtest.c"
+}
+]

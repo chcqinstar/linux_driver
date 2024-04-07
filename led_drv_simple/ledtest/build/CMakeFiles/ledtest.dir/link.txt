@@ -1,0 +1,1 @@
+/home/book/100ask_imx6ull_mini-sdk/ToolChain/arm-buildroot-linux-gnueabihf_sdk-buildroot/bin/arm-buildroot-linux-gnueabihf-gcc  -Wall   CMakeFiles/ledtest.dir/ledtest.c.o  -o ledtest 
