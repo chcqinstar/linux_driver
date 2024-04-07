@@ -17,7 +17,7 @@
 
 #define LED_NUM 2
 
-/* Major device number */
+/* Major device number   */
 static int major = 0;
 /* Device structure */
 static struct class *led_class;
