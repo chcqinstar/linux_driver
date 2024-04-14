@@ -1,4 +1,3 @@
-#include "leddrv.h"
 #include "led_opr.h"
 #include <linux/device.h>
 #include <linux/errno.h>
@@ -16,7 +15,7 @@
 #include <linux/stat.h>
 #include <linux/tty.h>
 
-/* 1. 确定主设备号                                                                 */
+/* 1. 确定主设备号 */
 static int major = 0;
 static struct class *led_class;
 struct led_operations *p_led_opr;
